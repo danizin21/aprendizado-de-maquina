@@ -22,7 +22,3 @@ Foi utilizado o conjunto de dados Wine Quality — Red Wine, que contém informa
 
 O modelo foi avaliado utilizando diferentes métricas de erro. Na execução registrada no notebook, o MSE no conjunto de teste foi de aproximadamente 0,3898.
 
-## Estrutura
-
-- `regressao_linear.ipynb`: notebook com a implementação e as análises.
-- `data/`: diretório destinado ao conjunto de dados utilizado no projeto.
